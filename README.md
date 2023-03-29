@@ -1,3 +1,6 @@
+[![pages-build-deployment](https://github.com/ArthurErlich/FUDGE/actions/workflows/pages/pages-build-deployment/badge.svg?event=page_build)](https://github.com/ArthurErlich/FUDGE/actions/workflows/pages/pages-build-deployment)
+
+
 <img src="https://jirkadelloro.github.io/FUDGE/Miscellaneous/Logo/FudgeLogoText.png" onload="document.querySelector('h1').style.visibility='hidden'"/>  
 
 # Welcome!  
